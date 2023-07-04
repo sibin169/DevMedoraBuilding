@@ -1,0 +1,13 @@
+.Logo img{
+    max-width: 200px;
+    float:left;
+}
+
+#menu .phone {
+    float:right;
+    z-index: 9;
+    position: absolute;
+    display: inline;
+    margin: 0px;
+    padding: 10px;
+}
